@@ -4,7 +4,7 @@
 - install JDK
 - install Intellij
 - install postgresql
-- edit username and password postgresql in file xtramails-application-test/xtramiles-api/src/main/resources
+- edit username, password postgresql, and create database named xtramiles in file xtramails-application-test/xtramiles-api/src/main/resources
 /application.properties
 - Run using intellij
 
